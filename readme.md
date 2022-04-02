@@ -8,15 +8,15 @@ Temperature data readings obtained using DHT 11 and ESP8266.
 
 ## Monitoring Temerature (Home)
 
-![App Screenshot](https://user-images.githubusercontent.com/52773931/161361282-faf9251d-2e3a-420d-9597-2b19181ca0dd.jpg  width="554" height="312")
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161361282-faf9251d-2e3a-420d-9597-2b19181ca0dd.jpg" width="554" height="312">
 
 ## Monitoring Temerature (Chart)
 
-![App Screenshot](https://user-images.githubusercontent.com/52773931/161361574-93669efc-0022-4af3-88d3-8cf869ac2450.jpg  width="554" height="312")
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161361574-93669efc-0022-4af3-88d3-8cf869ac2450.jpg" width="554" height="312">
 
 ## Device Control
 
-![App Screenshot](https://user-images.githubusercontent.com/52773931/161361614-7cdc52c1-ad91-4aa8-a1fc-df50ed473357.jpg  width="554" height="312")
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://user-images.githubusercontent.com/52773931/161361614-7cdc52c1-ad91-4aa8-a1fc-df50ed473357.jpg" width="554" height="312">
 
 ## Demo
 
